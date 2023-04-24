@@ -17,8 +17,8 @@
 }
 
 html, body{
+    background-image: url;
     min-height: 100%;
-    background-color: darkgray;
     font-family: var(--fonte1);
 }
 
